@@ -1,0 +1,41 @@
+# Core Flask
+Flask==2.3.3
+Flask-Login==0.6.3
+Werkzeug==2.3.8
+Jinja2==3.1.2
+
+# News Processing
+requests==2.31.0
+beautifulsoup4==4.12.2
+newspaper3k==0.2.8
+newsapi-python==0.2.7
+
+# NLP and AI
+openai==0.28.1
+sentence-transformers==2.7.0
+scikit-learn==1.4.2
+numpy==1.26.4
+nltk==3.8.1
+
+# PDF Generation
+pdfkit==1.0.0
+wkhtmltopdf==0.2
+Jinja2==3.1.2
+
+# Database (optional)
+Flask-SQLAlchemy==3.1.1
+psycopg2-binary==2.9.9
+
+# Environment and Security
+python-dotenv==1.0.0
+bcrypt==4.0.1
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+tqdm==4.66.1
+
+# Development
+pytest==8.0.0
+pytest-cov==4.1.0
+Faker==19.13.0
